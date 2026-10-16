@@ -1,3 +1,5 @@
+> 상태: 이전 미채택 초안(보존). 2026-10-16 사용자 승인에 따라 현재 FK 개발 기준은 PROJECT_PLAN.md, AGENTS.md, .specify/memory/constitution.md 및 specs/001-forward-kinematics/의 승인된 spec.md·plan.md·tasks.md이다. 아래 기존 내용은 역사적 초안이며 현재 구현 지시가 아니다.
+
 # PROJECT_STATE.md — Robot Control Playground
 
 **Specification revision:** 1.0.0 (2026-10-15)  
